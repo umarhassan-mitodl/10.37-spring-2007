@@ -4,6 +4,8 @@ description: Supporting MATLAB? file for Problem Set 6.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/826539e91f31123a3c082a75b18ace20_oneweek.fig
 file_size: 1804157
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

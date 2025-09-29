@@ -4,6 +4,8 @@ description: Problem set.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/6cc59889dd9b3860194bb5f669f8a2cb_pset07.pdf
 file_size: 161741
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

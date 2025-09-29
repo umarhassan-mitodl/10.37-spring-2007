@@ -5,6 +5,8 @@ description: 'Archive containing information about the WebLab Experiment. The ZI
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/e22f9efc0240b082397fb5913b774f0d_weblab.zip
 file_size: 315406
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

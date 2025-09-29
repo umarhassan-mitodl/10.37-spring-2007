@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides a MATLAB review and sample solutions for exercises.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

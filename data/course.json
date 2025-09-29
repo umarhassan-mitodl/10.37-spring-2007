@@ -37,6 +37,7 @@
     "website": "10-37-chemical-and-biological-reaction-engineering-spring-2007"
   },
   "course_title": "Chemical and Biological Reaction Engineering",
+  "hide_download": true,
   "course_description": "This course applies the concepts of reaction rate, stoichiometry and equilibrium to the analysis of chemical and biological reacting systems, derivation of rate expressions from reaction mechanisms and equilibrium or steady state assumptions, design of chemical and biochemical reactors via synthesis of chemical kinetics, transport phenomena, and mass and energy balances. Topics covered include: chemical/biochemical pathways; enzymatic, pathway, and cell growth kinetics; batch, plug flow and well-stirred reactors for chemical reactions and cultivations of microorganisms and mammalian cells; heterogeneous and enzymatic catalysis; heat and mass transport in reactors, including diffusion to and within catalyst particles and cells or immobilized enzymes.\n",
   "department_numbers": [
     "10"
@@ -47,6 +48,7 @@
     "content": "900a8f84-9210-9494-3f14-b92f915bdca9",
     "website": "10-37-chemical-and-biological-reaction-engineering-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",

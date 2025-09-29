@@ -4,6 +4,8 @@ description: This section provides assignment solutions prepared by David Adrian
   Karen Daniel, and Bin Pan. Used with permission. In each solution there is a summary
   document along with supporting files. The archive contains each assignment's problems,
   solutions, and supporting files.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -241,7 +243,7 @@ Problem set 10 ({{% resource_link 93bc0582-bf57-4da2-b495-e8ec3235049a "PDF" %}}
 WebLab Experiment
 -----------------
 
-This experiment was part of the Cambridge-MIT Institute funded Web Based Teaching Project. First, students completed a pre-lab assignment. Then students at MIT observed a reactor running at Cambridge University in real time. Finally, the students analyzed the data in a post-lab assignment. A short description follows below. More information about the nonideal reactor WebLab can be found {{% resource_link "95e19473-38e9-4a34-9932-330d59968b8e" "here" %}}.
+This experiment was part of the Cambridge-MIT Institute funded Web Based Teaching Project. First, students completed a pre-lab assignment. Then students at MIT observed a reactor running at Cambridge University in real time. Finally, the students analyzed the data in a post-lab assignment. A short description follows below. More information about the nonideal reactor WebLab can be found [here](https://como.cheng.cam.ac.uk/index.php?Page=Research&Section=Weblabs).
 
 A reaction of phenolphthalein occurs in aqueous sodium hydroxide solution.
 

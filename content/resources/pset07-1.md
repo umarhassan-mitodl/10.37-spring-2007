@@ -4,6 +4,8 @@ description: ''
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/fe9bf98850a2a19e7b8726d7c156b59c_pset07.zip
 file_size: 244858
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

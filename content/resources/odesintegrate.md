@@ -4,6 +4,8 @@ description: Sample solutions to exercises.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/949bcf6818ae19332454639514b438a6_odesintegrate.m
 file_size: 3216
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
