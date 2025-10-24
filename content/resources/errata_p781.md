@@ -4,8 +4,6 @@ description: Errata for course text.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/8b477edb3104c518603085f0888253f0_errata_p781.pdf
 file_size: 39338
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

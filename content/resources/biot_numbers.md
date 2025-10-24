@@ -8,8 +8,6 @@ description: A review of some of the concepts of heat and mass transfer, particu
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/ca372842a20e2e5416bcf2f3faf118f4_biot_numbers.pdf
 file_size: 152490
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

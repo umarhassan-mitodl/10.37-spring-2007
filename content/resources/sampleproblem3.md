@@ -4,8 +4,6 @@ description: Sample solutions to exercises.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/5ddb096496733d4d27d78f0e1a9a9f4f_sampleproblem3.m
 file_size: 1458
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

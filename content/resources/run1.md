@@ -4,8 +4,6 @@ description: Data file for WebLab Experiment.
 file: /courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/10e9b6224987b8af72be318809870e5e_run1.txt
 file_size: 32572
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

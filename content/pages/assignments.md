@@ -4,8 +4,6 @@ description: This section provides assignment solutions prepared by David Adrian
   Karen Daniel, and Bin Pan. Used with permission. In each solution there is a summary
   document along with supporting files. The archive contains each assignment's problems,
   solutions, and supporting files.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

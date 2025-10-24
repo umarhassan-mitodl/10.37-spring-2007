@@ -3,8 +3,6 @@ content_type: page
 description: This section includes lecture notes prepared by Tiffany Iaconis, Frederick
   Jao, and Vicky Loewer for MIT OpenCourseWare. They are preliminary and may contain
   errors.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
